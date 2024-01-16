@@ -13,3 +13,5 @@
 
 ## Function
 - Can create, delete and update movie list
+
+![Screenshot](crud.jpeg)
